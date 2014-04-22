@@ -1,0 +1,94 @@
+{
+	"diseases":[	
+			{"name":"Heart disease"}, 
+			{"disease_data":[
+				{ "year":"2011", "Mortality":"596339" , "Media Attention (NY Times, Media Cloud)":"249", "Research Funding (millions)": "1637","Media/Mortality(Max 100)":"3.3", "Research/Mortality(Max 100)": "18.7"  },		
+				{ "year":"2010", "Mortality":"597689" , "Media Attention (NY Times, Media Cloud)":"1470", "Research Funding (millions)": "2101","Media/Mortality(Max 100)":"25.3", "Research/Mortality(Max 100)": "19.7" }
+			]
+			},
+			{"name":"Cancer"}, 
+			{"disease_data":[
+					{"year":"2011", "Mortality":"575313" , "Media Attention (NY Times, Media Cloud)":"2370", "Research Funding (millions)": "7768","Media/Mortality(Max 100)":"32.5", "Research/Mortality(Max 100)": "92.0"  },
+					{"year":"2010", "Mortality":"574743" , "Media Attention (NY Times, Media Cloud)":"1630", "Research Funding (millions)": "9064","Media/Mortality(Max 100)":"29.2", "Research/Mortality(Max 100)": "88.4"  }
+				]
+			},
+			{"name":"Chronic lower respiratory diseases"}, 
+			{"disease_data":[
+				{"year":"2011", "Mortality":"143382" , "Media Attention (NY Times, Media Cloud)":"3", "Research Funding (millions)": "1386","Media/Mortality(Max 100)":"0.2", "Research/Mortality(Max 100)": "65.8"  },
+				{"year":"2010", "Mortality":"138080" , "Media Attention (NY Times, Media Cloud)":"27", "Research Funding (millions)": "1609","Media/Mortality(Max 100)":"2", "Research/Mortality(Max 100)": "65.3" }
+				]
+			},
+			{"name":"Stroke (cerebrovascular diseases)"}, 
+			{"disease_data":[
+				{"year":"2011", "Mortality":"128931" , "Media Attention (NY Times, Media Cloud)":"217", "Research Funding (millions)": "317","Media/Mortality(Max 100)":"13.3", "Research/Mortality(Max 100)": "16.7" },
+				{"year":"2010", "Mortality":"129476" , "Media Attention (NY Times, Media Cloud)":"216", "Research Funding (millions)": "319","Media/Mortality(Max 100)":"17.2", "Research/Mortality(Max 100)": "13.8" }
+				]
+			},
+			{"name":"Accidents (unintentional injuries)"}, 
+			{"disease_data":[
+				{"year":"2011", "Mortality":"122777" , "Media Attention (NY Times, Media Cloud)":"139", "Research Funding (millions)": "356","Media/Mortality(Max 100)":"8.9", "Research/Mortality(Max 100)": "19.7" },
+				{"year":"2010", "Mortality":"120859" , "Media Attention (NY Times, Media Cloud)":"183", "Research Funding (millions)": "418","Media/Mortality(Max 100)":"15.6", "Research/Mortality(Max 100)": "19.4" }
+				]
+			},
+			{"name":"Alzheimer's disease"}, 
+			{"disease_data":[
+				{"year":"2011", "Mortality":"84691" , "Media Attention (NY Times, Media Cloud)":"326", "Research Funding (millions)": "448","Media/Mortality(Max 100)":"30.4", "Research/Mortality(Max 100)": "36.0" },
+				{"year":"2010", "Mortality":"83494" , "Media Attention (NY Times, Media Cloud)":"456", "Research Funding (millions)": "529","Media/Mortality(Max 100)":"56.2", "Research/Mortality(Max 100)": "35.5" }
+				]
+			},
+			{"name":"Diabetes"}, 
+			{"disease_data":[
+					{"year":"2011", "Mortality":"73282" , "Media Attention (NY Times, Media Cloud)":"494", "Research Funding (millions)": "1076","Media/Mortality(Max 100)":"53.2", "Research/Mortality(Max 100)": "100" },
+					{"year":"2010", "Mortality":"69071" , "Media Attention (NY Times, Media Cloud)":"527", "Research Funding (millions)": "1199","Media/Mortality(Max 100)":"78.6", "Research/Mortality(Max 100)": "97.3" }
+				]
+			},
+			{"name":"Nephritis, nephrotic syndrome, & nephrosis"}, 
+			{"disease_data":[
+				{"year":"2011", "Mortality":"53667" , "Media Attention (NY Times, Media Cloud)":"1", "Research Funding (millions)": "599","Media/Mortality(Max 100)":"0.1", "Research/Mortality(Max 100)": "76.0" },
+				{"year":"2010", "Mortality":"50476" , "Media Attention (NY Times, Media Cloud)":"2", "Research Funding (millions)": "691","Media/Mortality(Max 100)":"0.4", "Research/Mortality(Max 100)": "76.7" }
+				]
+			},
+			{"name":"Influenza and Pneumonia"}, 
+			{"disease_data":[
+				{"year":"2011", "Mortality":"45731" , "Media Attention (NY Times, Media Cloud)":"80", "Research Funding (millions)": "654","Media/Mortality(Max 100)":"13.8", "Research/Mortality(Max 100)": "97.4" },
+				{"year":"2010", "Mortality":"50097" , "Media Attention (NY Times, Media Cloud)":"95", "Research Funding (millions)": "498","Media/Mortality(Max 100)":"19.5", "Research/Mortality(Max 100)": "100" }
+				]
+			},
+			{"name":"Intentional self-harm (suicide)"}, 
+			{"disease_data":[
+				{"year":"2011", "Mortality":"38285" , "Media Attention (NY Times, Media Cloud)":"485", "Research Funding (millions)": "74","Media/Mortality(Max 100)":"100", "Research/Mortality(Max 100)": "13.2" },
+				{"year":"2010", "Mortality":"38364" , "Media Attention (NY Times, Media Cloud)":"331", "Research Funding (millions)": "59","Media/Mortality(Max 100)":"88.8", "Research/Mortality(Max 100)": "8.6" }
+				]
+			},
+			{"name":"Septicemia"}, 
+			{"disease_data":[
+				{"year":"2011", "Mortality":"35539" , "Media Attention (NY Times, Media Cloud)":"0", "Research Funding (millions)": "91","Media/Mortality(Max 100)":"0", "Research/Mortality(Max 100)": "17.4" },
+				{"year":"2010", "Mortality":"34812" , "Media Attention (NY Times, Media Cloud)":"1", "Research Funding (millions)": "107","Media/Mortality(Max 100)":"0.3", "Research/Mortality(Max 100)": "17.2" }
+				]
+			},
+			{"name":"Chronic liver disease & cirrhosis"}, 
+			{"disease_data":[
+				{"year":"2011", "Mortality":"33539" , "Media Attention (NY Times, Media Cloud)":"11", "Research Funding (millions)": "303","Media/Mortality(Max 100)":"2.6", "Research/Mortality(Max 100)": "61.5" },
+				{"year":"2010", "Mortality":"31903" , "Media Attention (NY Times, Media Cloud)":"121", "Research Funding (millions)": "329","Media/Mortality(Max 100)":"39", "Research/Mortality(Max 100)": "57.8" }
+				]
+			},
+			{"name":"Essential hypertension & hypertensive renal disease."}, 
+			{"disease_data":[
+				{"year":"2011", "Mortality":"27477" , "Media Attention (NY Times, Media Cloud)":"96", "Research Funding (millions)": "240","Media/Mortality(Max 100)":"27.6", "Research/Mortality(Max 100)": "59.5" },
+				{"year":"2010", "Mortality":"26634" , "Media Attention (NY Times, Media Cloud)":"88", "Research Funding (millions)": "301","Media/Mortality(Max 100)":"34", "Research/Mortality(Max 100)": "63.3" }
+				]
+			},
+			{"name":"Parkinson's disease"}, 
+			{"disease_data":[
+				{"year":"2011", "Mortality":"23107" , "Media Attention (NY Times, Media Cloud)":"241", "Research Funding (millions)": "151","Media/Mortality(Max 100)":"82.3", "Research/Mortality(Max 100)": "44.5" },
+				{"year":"2010", "Mortality":"22032" , "Media Attention (NY Times, Media Cloud)":"214", "Research Funding (millions)": "172","Media/Mortality(Max 100)":"100", "Research/Mortality(Max 100)": "43.7" }
+				]
+			},
+			{"name":"Pneumonitis due to solids & liquids"}, 
+			{"disease_data":[
+				{"year":"2011", "Mortality":"18090" , "Media Attention (NY Times, Media Cloud)":"0", "Research Funding (millions)": "117","Media/Mortality(Max 100)":"0", "Research/Mortality(Max 100)": "44.5" },
+				{"year":"2010", "Mortality":"17011" , "Media Attention (NY Times, Media Cloud)":"1", "Research Funding (millions)": "110","Media/Mortality(Max 100)":"0.6", "Research/Mortality(Max 100)": "36.2" }
+				]
+			}
+		]	
+}
